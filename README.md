@@ -75,15 +75,14 @@
 
 ### GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayar-900&show_icons=true&theme=tokyonight&hide_border=true" alt="Rayan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayar-900&theme=tokyonight&hide_border=true" alt="Rayan's GitHub Streak" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nayar-900&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Rayan's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayar-900&theme=tokyonight&hide_border=true" alt="Rayan's GitHub Streak" />
+</p>
 
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayar-900&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayar-900&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+</p>
 
 <br>
 
