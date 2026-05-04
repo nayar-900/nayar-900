@@ -76,12 +76,18 @@
 ### GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayar-900&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Rayan's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayar-900&theme=tokyonight&hide_border=true" alt="Rayan's GitHub Streak" />
+  <a href="https://github.com/nayar-900">
+    <img src="https://github-readme-stats.vercel.app/api?username=nayar-900&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="Rayan's GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/nayar-900">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayar-900&theme=tokyonight&hide_border=true&v=1" alt="Rayan's GitHub Streak" width="48%" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayar-900&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+  <a href="https://github.com/nayar-900">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayar-900&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" width="60%" />
+  </a>
 </p>
 
 <br>
