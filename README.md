@@ -1,80 +1,105 @@
-<h1 align="center">Hi, I'm Rayan</h1>
-<h3 align="center">Full Stack Developer | AI Enthusiast | SEO Specialist</h3>
+<h1 align="center">Rayan Badar</h1>
+<h3 align="center">Full Stack Developer • AI Systems Builder • SEO Strategist</h3>
 
 <p align="center">
-  Building intelligent solutions that blend <b>AI, Web Development, and Digital Growth</b>
+  I build scalable web applications and intelligent systems that combine software engineering with data-driven decision making.
 </p>
 
 ---
 
-## About Me
-- BS Computer Science @ Namal University (Class of 2027)
-- Full Stack Developer with a focus on **real-world problem solving**
-- Currently exploring **AI systems & automation**
-- SEO Specialist (On-page, Off-page, Technical SEO)
-- Freelancing on **Upwork & Fiverr**
+## About
+
+- Computer Science undergraduate at Namal University (Class of 2027)  
+- Focused on Full Stack Development and AI-based systems  
+- Experience in building real-world applications and automation solutions  
+- Skilled in combining development with SEO for digital growth  
+- Freelance experience on Upwork and Fiverr  
 
 ---
 
-## What I Do
-- Build scalable **web applications**
-- Develop **AI-powered systems**
-- Optimize products using **SEO strategies**
-- Create impactful **digital solutions**
+## Core Focus
+
+- Full Stack Web Development  
+- Machine Learning Applications  
+- System Design and Problem Solving  
+- Search Engine Optimization (Technical + Off-Page)  
 
 ---
 
 ## Tech Stack
 
 ### Languages
-`C++` `Python` `JavaScript` `HTML` `CSS`
+C++ • Python • JavaScript • HTML • CSS  
 
-### Frameworks & Tools
-`React` `Bootstrap` `Tailwind` `Node.js`  
-`Git` `GitHub` `VS Code` `WordPress`
+### Frameworks and Libraries
+React • Node.js • Bootstrap • Tailwind  
 
-### AI & Data
-`Machine Learning` `Pandas` `Scikit-learn`
+### Tools and Platforms
+Git • GitHub • VS Code • WordPress  
 
----
-
-## Featured Projects
-
-### AEGIS-AI
-> Real-time earthquake disaster response system using ML & USGS API  
-**Tech:** Python, ML, APIs  
+### AI and Data
+Scikit-learn • Pandas • Data Processing  
 
 ---
 
-### Shop-X
-> Modern eCommerce web app with dynamic product listings  
-**Tech:** HTML, CSS, JS  
+## Selected Projects
+
+### AEGIS-AI  
+Real-time earthquake disaster response system integrating machine learning with live USGS data and routing optimization  
+
+Tech: Python, Machine Learning, APIs  
 
 ---
 
-### Spam Email Detection
-> Naive Bayes-based spam classifier with GUI  
-**Tech:** Python  
+### Shop-X  
+Modern eCommerce platform with dynamic product listings and responsive UI  
+
+Tech: HTML, CSS, JavaScript  
 
 ---
 
-## GitHub Stats
+### Spam Email Detection  
+Naive Bayes-based spam classification system with data preprocessing and prediction interface  
+
+Tech: Python, Machine Learning  
+
+---
+
+## GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayar-900&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayar-900&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nayar-900&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayar-900&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nayar-900&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## Connect With Me
+## Experience
+
+Web Developer Intern  
+NexusSecure  
+
+Web Developer Intern  
+CodeAlpha  
+
+---
+
+## Connect
+
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a> •
-  <a href="mailto:your-email@gmail.com">Email</a> •
-  <a href="#">Portfolio</a>
+  <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="mailto:your-email@gmail.com">Email</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://your-portfolio.com">Portfolio</a>
 </p>
 
 ---
 
 <p align="center">
-  ⚡ <i>"Turning ideas into impactful digital solutions"</i>
+  Building systems that solve problems, not just projects that look good.
 </p>
