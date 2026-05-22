@@ -91,6 +91,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nayar-900&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="nayar-900 GitHub Trophies" />
+  </a>
+</p>
+
+<p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=nayar-900&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayar-900&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
