@@ -1,102 +1,98 @@
 <h1 align="center">Rayan Badar</h1>
-<h3 align="center">Full Stack Developer • AI Systems Builder • SEO Strategist</h3>
+<h3 align="center">Full Stack Developer • AI Systems Builder • DevOps Engineer • SEO Strategist</h3>
 
 <p align="center">
-  I build scalable applications, intelligent systems, and modern digital experiences focused on real-world impact.
+  I architect secure distributed applications, intelligent computer vision systems, and optimized DevOps pipelines focused on real-world scalability.
 </p>
 
 <p align="center">
   <a href="https://github.com/nayar-900">
-    <img src="https://img.shields.io/github/followers/nayar-900?label=Followers&style=for-the-badge" />
+    <img src="https://img.shields.io/github/followers/nayar-900?label=Followers&style=for-the-badge&color=711c91" />
   </a>
   <a href="https://github.com/nayar-900">
-    <img src="https://img.shields.io/github/stars/nayar-900?affiliations=OWNER&style=for-the-badge" />
+    <img src="https://img.shields.io/github/stars/nayar-900?affiliations=OWNER&style=for-the-badge&color=0ea5e9" />
   </a>
 </p>
 
 ---
 
-## About Me
+## 👤 About Me
 
-- Computer Science undergraduate at Namal University (Class of 2027)
-- Focused on Full Stack Development, AI Systems, and Cloud Technologies
-- Building scalable software solutions and automation systems
-- Experienced in SEO strategy, guest posting, and digital growth
-- Freelance experience on Upwork and Fiverr
-- Passionate about clean UI, performance optimization, and problem solving
+- 🎓 **Education:** Computer Science Undergraduate at Namal University (Class of 2027)
+- 🚀 **Core Expertise:** Full Stack Development, AI/ML Engineering, DevOps Pipelines, & Cloud Architecture
+- 🌐 **Digital Growth:** Experienced SEO Specialist & Content Strategist with a proven track record on Upwork and Fiverr
+- 🛠️ **Philosophy:** Building robust backend architectures, automated deployments, and highly optimized computer vision systems
 
 ---
 
-## Core Focus
+## 🛠️ Tech Stack
 
-- Full Stack Web Development
-- Artificial Intelligence Applications
-- Machine Learning Systems
-- Cloud & DevOps Fundamentals
-- System Design & Problem Solving
-- Technical SEO & Off-Page SEO
-
----
-
-## Tech Stack
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css" />
+### 💻 Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,js,mysql,html,css" />
+  </a>
 </p>
 
-### Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,tailwind" />
+### 🧠 Machine Learning & Computer Vision
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,python" />
+  </a>
+  <code><strong>OpenCV</strong></code> • <code><strong>Scikit-Learn</strong></code> • <code><strong>NumPy</strong></code> • <code><strong>Pandas</strong></code> • <code><strong>SciPy</strong></code> • <code><strong>Jupyter</strong></code>
 </p>
 
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress,vercel" />
+### ⚙️ Backend, Cloud & DevOps
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,react,mongodb,azure" />
+  </a>
+  <code><strong>JWT Auth</strong></code> • <code><strong>MongoDB Sharding/Replica Sets</strong></code>
 </p>
 
-### AI & Data
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
+### 🧰 Tools & Platforms
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,latex" />
+  </a>
+  <code><strong>Cisco Packet Tracer</strong></code> • <code><strong>Cisco IOS</strong></code>
 </p>
 
 ---
 
-## Selected Projects
+## 🚀 Featured Projects
 
-### AEGIS AI
-Real-time earthquake disaster response and monitoring platform integrating machine learning with live USGS earthquake feeds, prediction systems, and routing optimization.
+### 🛡️ Adversarial Privacy Mask
+> **Status:** `Ongoing Research`
+* **Core:** Co-developing a custom loss function integrated with PGD attacks for adversarial perturbation generation. 
+* **Impact:** Empirically outperforms standard FGSM and PGD baselines on deep facial recognition models. Currently scaling validation from LFW to CASIA-WebFace.
+* **Tech:** `Python` • `PyTorch` • `Adversarial ML` • `CASIA-WebFace`
 
-**Tech Stack:** Python • Streamlit • Machine Learning • APIs • Data Processing
+### 🌴 Date Palm Tree Detection System
+> **Status:** `Completed`
+* **Core:** End-to-end computer vision pipeline that detects and counts date palm trees from high-resolution aerial imagery.
+* **Impact:** Integrated **YOLOv11** deep learning architecture alongside **BoT-SORT** multi-object tracking for frame-to-frame video consistency. Served via a Flask REST API to a React Native mobile frontend.
+* **Tech:** `Python` • `YOLOv11` • `BoT-SORT` • `OpenCV` • `Flask` • `React Native`
 
----
+### 🌐 Distributed Student Issue Management System
+> **Status:** `Ongoing`
+* **Core:** Production-grade architecture for a highly available, distributed web application.
+* **Impact:** Implemented **MongoDB sharding** and replica sets to ensure database fault tolerance. Deployed seamlessly to **Microsoft Azure App Service** with secure JWT-driven Role-Based Access Control (RBAC) across multiple user tiers.
+* **Tech:** `Node.js` • `Express` • `MongoDB` • `Microsoft Azure` • `JWT`
 
-### Shop-X
-Modern eCommerce platform with responsive UI, dynamic product listings, and optimized frontend architecture.
-
-**Tech Stack:** HTML • CSS • JavaScript
-
----
-
-### Spam Email Detection
-Naive Bayes-based spam classification system with preprocessing pipelines and prediction interface for intelligent email filtering.
-
-**Tech Stack:** Python • Scikit-learn • Pandas
-
----
-
-### RISC-V Processor
-Custom pipelined RISC-V processor implementation with Verilog modules, memory integration, and simulation testbenches.
-
-**Tech Stack:** Verilog • Digital Logic • Computer Architecture
+### 🏢 E-Commerce Enterprise Network Design
+> **Status:** `Completed`
+* **Core:** Designed and simulated a secure corporate network architecture within Cisco Packet Tracer.
+* **Impact:** Enforced strict network segmentation across 4 enterprise departments via VLANs. Configured DNS-based load balancing, AAA security protocols, and 4 distinct Layer-2 defense mechanisms (DHCP Snooping, DAI, Port Security, and NAT).
+* **Tech:** `Cisco Packet Tracer` • `Cisco IOS` • `Network Security` • `AAA Security`
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nayar-900&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayar-900&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nayar-900&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayar-900&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -105,32 +101,30 @@ Custom pipelined RISC-V processor implementation with Verilog modules, memory in
 
 ---
 
-## Experience
+## 💼 Professional Experience
 
-### Web Developer Intern — NexusSecure
-- Worked on frontend interfaces and responsive web systems
-- Collaborated on debugging and feature implementation
+### 🛠️ Web Developer Intern — *NexusSecure*
+* Developed dynamic frontend interfaces and highly responsive layout systems.
+* Collaborated closely with backend teams on debugging and feature integration.
 
-### Web Developer Intern — CodeAlpha
-- Developed web-based projects and UI components
-- Improved responsiveness and user interaction flow
+### 💻 Web Developer Intern — *CodeAlpha*
+* Built interactive web-based applications and reusable UI components.
+* Optimized user interaction flows and component responsiveness across varying viewports.
 
-### SEO Specialist & Content Strategist
-- Managed guest posting and backlink outreach campaigns
-- Worked on technical SEO and domain authority growth
-
----
-
-## Current Goals
-
-- Building production-level AI systems
-- Expanding expertise in Cloud & DevOps
-- Contributing to impactful open-source projects
-- Growing as a freelance developer and engineer
+### 📈 SEO Specialist & Content Strategist — *Freelance*
+* Orchestrated advanced off-page SEO campaigns, guest posting networks, and high-tier backlink outreach.
+* Focused on technical SEO analysis and boosting root domain authority for digital assets.
 
 ---
 
-## Connect With Me
+## 🎯 Current Objectives
+* Packaging production-ready Deep Learning models into automated CI/CD DevOps workflows.
+* Expanding expertise in infrastructure-as-code (IaC) and cloud native computing architectures.
+* Contributing actively to open-source systems software.
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin">
@@ -149,5 +143,5 @@ Custom pipelined RISC-V processor implementation with Verilog modules, memory in
 ---
 
 <p align="center">
-  <i>Building systems that solve problems — not just projects that look good.</i>
+  <i>Building distributed systems that solve deep engineering problems — not just templates.</i>
 </p>
