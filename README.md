@@ -8,7 +8,7 @@
 <div align="center">
 
 ```
-⚡ Building systems that solve real problems — not just projects that look good.
+Building systems that solve real problems — not just projects that look good.
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=CS+Undergraduate+%40+Namal+University+%F0%9F%8E%93;Full+Stack+Web+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;DevOps+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;SEO+Strategist+%26+Digital+Growth+Hacker+%F0%9F%93%88;Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
@@ -27,7 +27,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```python
 class RayanBadar:
@@ -41,32 +41,32 @@ class RayanBadar:
         self.passions    = ["Clean UI", "Performance Optimization", "Problem Solving"]
 
     def say_hi(self):
-        print("Thanks for stopping by! Let's build something awesome together 🚀")
+        print("Thanks for stopping by! Let's build something awesome together")
 
 me = RayanBadar()
 me.say_hi()
 ```
 
-- 🎓 **CS Undergraduate** at Namal University *(Class of 2027)*
-- 💻 Building **scalable full-stack applications** and **intelligent AI systems**
-- ☁️ Exploring **Cloud Infrastructure**, **DevOps pipelines**, and **CI/CD automation**
-- 📈 Experienced in **Technical SEO**, guest posting, and **digital growth strategy**
-- 🛠️ Freelancing on **Upwork & Fiverr** — turning ideas into shipped products
-- 🌱 Currently learning: **Docker · Kubernetes · AWS · MLOps**
+- **CS Undergraduate** at Namal University *(Class of 2027)*
+- Building **scalable full-stack applications** and **intelligent AI systems**
+- Exploring **Cloud Infrastructure**, **DevOps pipelines**, and **CI/CD automation**
+- Experienced in **Technical SEO**, guest posting, and **digital growth strategy**
+- Freelancing on **Upwork & Fiverr** — turning ideas into shipped products
+- Currently learning: **Docker · Kubernetes · AWS · MLOps**
 
 ---
 
-## 🎯 Core Focus Areas
+## Core Focus Areas
 
 <div align="center">
 
-| 🌐 Full Stack Dev | 🤖 AI & ML | ☁️ DevOps & Cloud |
+| Full Stack Dev | AI & Cyber | DevOps & Cloud |
 |:-:|:-:|:-:|
 | React · Node.js · Flask | PyTorch · Scikit-learn · OpenCV | Azure · Linux · Docker |
 | MongoDB · MySQL · REST APIs | NLP · Computer Vision · Pandas | CI/CD · Git · Automation |
 | Responsive UI · TailwindCSS | Jupyter · NumPy · SciPy | Postman · JWT · Security |
 
-| 📊 SEO Strategy | 🔧 Systems & Architecture |
+| SEO Strategy | Systems & Architecture |
 |:-:|:-:|
 | Technical SEO · Backlink Outreach | RISC-V · Verilog · Computer Arch |
 | Guest Posting · Domain Authority | System Design · Problem Solving |
@@ -75,9 +75,9 @@ me.say_hi()
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💬 Languages
+### Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -87,7 +87,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### 🤖 AI · Machine Learning · Computer Vision
+### AI · Machine Learning · Computer Vision
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
@@ -98,7 +98,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
-### 🌐 Frontend & Backend
+### Frontend & Backend
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -109,13 +109,13 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-### 🗄️ Databases
+### Databases
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### ☁️ DevOps · Cloud · Tools
+### DevOps · Cloud · Tools
 <p>
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -131,20 +131,20 @@ me.say_hi()
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
-### 🌋 AEGIS AI — Earthquake Disaster Response Platform
+### AEGIS AI — Earthquake Disaster Response Platform
 > Real-time earthquake monitoring & ML-powered disaster response system
 
-**What it does:** Integrates live USGS earthquake feeds with machine learning prediction models, routing optimization, and an interactive response dashboard. Built to save lives through faster decision-making.
+**What it does:** Integrates live USGS earthquake feeds with machine learning prediction models, routing optimization, and an interactive response dashboard—built to save lives through faster decision-making.
 
 `Python` `Streamlit` `Machine Learning` `USGS APIs` `Data Processing` `Geospatial Analysis`
 
 ---
 
-### 🛒 Shop-X — Modern eCommerce Platform
+### Shop-X — Modern eCommerce Platform
 > High-performance storefront with clean UI and optimized frontend architecture
 
 **What it does:** Dynamic product listings, responsive design, and a seamless shopping experience from first click to checkout.
@@ -153,7 +153,7 @@ me.say_hi()
 
 ---
 
-### 📧 Spam Email Detection System
+### Spam Email Detection System
 > Intelligent email classifier powered by Naive Bayes & NLP preprocessing
 
 **What it does:** Full preprocessing pipeline — tokenization, stopword removal, vectorization — feeding a trained Naive Bayes classifier with a real-time prediction interface.
@@ -162,7 +162,7 @@ me.say_hi()
 
 ---
 
-### ⚙️ RISC-V Processor
+### RISC-V Processor
 > Custom pipelined CPU implementation from the ground up
 
 **What it does:** Fully pipelined RISC-V architecture with Verilog HDL modules, integrated memory systems, hazard detection, and simulation testbenches.
@@ -173,7 +173,7 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -196,36 +196,36 @@ me.say_hi()
 
 ---
 
-## 💼 Experience
+## Experience
 
-### 🔷 Web Developer Intern — NexusSecure
+### Web Developer Intern — NexusSecure
 - Built and optimized frontend interfaces and responsive web systems
 - Collaborated on debugging, feature implementation, and code reviews
 
-### 🔷 Web Developer Intern — CodeAlpha
+### Web Developer Intern — CodeAlpha
 - Developed web-based projects and interactive UI components
 - Enhanced responsiveness, performance, and user interaction flow
 
-### 🔷 SEO Specialist & Content Strategist *(Freelance)*
+### SEO Specialist & Content Strategist *(Freelance)*
 - Managed large-scale guest posting and backlink outreach campaigns
 - Led technical SEO audits and domain authority growth initiatives
 - Delivered measurable organic traffic improvements for multiple clients
 
 ---
 
-## 🎯 Current Goals
+## Current Goals
 
 ```
-🔲 Ship production-grade AI systems with real-world impact
-🔲 Master Docker, Kubernetes & cloud-native DevOps
-🔲 Contribute meaningfully to open-source AI/ML projects
-🔲 Grow as a full-cycle freelance engineer
-🔲 Achieve AWS / Azure certification
+Ship production-grade AI systems with real-world impact
+Master Docker, Kubernetes & cloud-native DevOps
+Contribute meaningfully to open-source AI/ML projects
+Grow as a full-cycle freelance engineer
+Achieve AWS / Azure certification
 ```
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
