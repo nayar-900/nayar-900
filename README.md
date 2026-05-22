@@ -30,27 +30,27 @@ class RayanBadar:
         self.name         = "Rayan Badar"
         self.location     = "Bahawalpur, Pakistan"
         self.university   = "Namal University Mianwali — BSCS (2023–2027)"
-        self.gpa          = "3.0 / 4.0"
+        self.gpa          = "3.04 / 4.00"
         self.roles        = [
             "DevOps & Cloud Engineer",
             "Full Stack Developer",
-            "AI Systems Builder",
+            "AI Automation & Systems Builder",
             "Cybersecurity Enthusiast",
             "Computer Networks Engineer",
             "SEO Strategist"
         ]
         self.communities  = ["IEEE Namal Student Branch", "AWS Namal Cloud Club", "DEN Namal"]
-        self.contact      = "rayanbadar900@gmail.com"
+        self.contact      = ["rayanbadar900@gmail.com", "bscs23f18@namal.edu.pk"]
         self.languages    = ["English (Fluent)", "Urdu (Fluent)", "Saraiki (Intermediate)"]
 
     def say_hi(self):
-        print("Results-driven CS student building real solutions — from AI systems to cloud pipelines.")
+        print("Results-driven CS student building real solutions — from AI systems to cloud pipelines ...")
 
 me = RayanBadar()
 me.say_hi()
 ```
 
-- **CS Undergraduate** at Namal University Mianwali, GPA: 3.0/4.0 *(Class of 2027)*
+- **CS Undergraduate** at Namal University Mianwali, GPA: 3.04/4.00 *(Class of 2027)*
 - Primary focus on **DevOps, Cloud Infrastructure (AWS & Azure), and CI/CD automation**
 - Building **full-stack applications**, **AI/ML systems**, and **IoT network architectures**
 - Exploring **Cybersecurity**, **Information Security**, and **Computer Networks**
@@ -200,7 +200,7 @@ End-to-end spam detection system — tokenization, stopword removal, vectorizati
 ---
 
 ### RISC-V Single-Cycle Processor
-> Custom CPU implementation from ground up in Verilog HDL
+> Custom CPU implementation from the ground up in Verilog HDL
 
 Fully implemented RISC-V single-cycle processor with complete Verilog modules, memory integration, instruction decoding, hazard handling, and simulation testbenches.
 
@@ -342,7 +342,7 @@ Responsive eCommerce UI with dynamic product listings, clean component structure
 [ ] Build production-grade AI systems with measurable real-world impact
 [ ] Contribute meaningfully to open-source security and ML projects
 [ ] Expand expertise in Cybersecurity and ethical hacking fundamentals
-[ ] Grow as a full-cycle freelance engineer on Upwork & Fiverr
+[ ] Grow as a full-cycle freelance engineer on Upwork & Fiverr (Optional)
 ```
 
 ---
