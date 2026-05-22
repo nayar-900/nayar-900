@@ -1,17 +1,12 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0f3460&height=200&section=header&text=Rayan%20Badar&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20DevOps%20%E2%80%A2%20SEO%20Strategist&descAlignY=60&descSize=18&descColor=8b949e&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0f3460&height=200&section=header&text=Rayan%20Badar&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=DevOps%20%26%20Cloud%20%7C%20Full%20Stack%20%7C%20AI%20Systems%20%7C%20Cybersecurity%20%7C%20SEO&descAlignY=60&descSize=16&descColor=8b949e&animation=twinkling" />
 
 </div>
 
 <div align="center">
 
-```
-Building systems that solve real problems — not just projects that look good.
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=CS+Undergraduate+%40+Namal+University+%F0%9F%8E%93;Full+Stack+Web+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;DevOps+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;SEO+Strategist+%26+Digital+Growth+Hacker+%F0%9F%93%88;Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&lines=CS+Undergraduate+%40+Namal+University+(Class+of+2027);DevOps+Engineer+%7C+Cloud+Practitioner+(AWS+%26+Azure);Full+Stack+Web+Developer+(React+%7C+Node.js+%7C+Flask);AI+%26+Machine+Learning+Systems+Builder;Cybersecurity+%26+Computer+Networks+Enthusiast;IEEE+Publicity+Lead+%7C+AWS+Cloud+Club+Member;SEO+Strategist+%26+Technical+Content+Writer)](https://git.io/typing-svg)
 
 <br/>
 
@@ -32,27 +27,36 @@ Building systems that solve real problems — not just projects that look good.
 ```python
 class RayanBadar:
     def __init__(self):
-        self.name        = "Rayan Badar"
-        self.university  = "Namal University, Pakistan (Class of 2027)"
-        self.roles       = ["Full Stack Developer", "AI Systems Builder",
-                            "DevOps Engineer", "SEO Strategist"]
-        self.currently   = "Building production-level AI & cloud systems"
-        self.freelance   = ["Upwork", "Fiverr"]
-        self.passions    = ["Clean UI", "Performance Optimization", "Problem Solving"]
+        self.name         = "Rayan Badar"
+        self.location     = "Bahawalpur, Pakistan"
+        self.university   = "Namal University Mianwali — BSCS (2023–2027)"
+        self.gpa          = "3.0 / 4.0"
+        self.roles        = [
+            "DevOps & Cloud Engineer",
+            "Full Stack Developer",
+            "AI Systems Builder",
+            "Cybersecurity Enthusiast",
+            "Computer Networks Engineer",
+            "SEO Strategist"
+        ]
+        self.communities  = ["IEEE Namal Student Branch", "AWS Namal Cloud Club", "DEN Namal"]
+        self.contact      = "rayanbadar900@gmail.com"
+        self.languages    = ["English (Fluent)", "Urdu (Fluent)", "Saraiki (Intermediate)"]
 
     def say_hi(self):
-        print("Thanks for stopping by! Let's build something awesome together")
+        print("Results-driven CS student building real solutions — from AI systems to cloud pipelines.")
 
 me = RayanBadar()
 me.say_hi()
 ```
 
-- **CS Undergraduate** at Namal University *(Class of 2027)*
-- Building **scalable full-stack applications** and **intelligent AI systems**
-- Exploring **Cloud Infrastructure**, **DevOps pipelines**, and **CI/CD automation**
-- Experienced in **Technical SEO**, guest posting, and **digital growth strategy**
-- Freelancing on **Upwork & Fiverr** — turning ideas into shipped products
-- Currently learning: **Docker · Kubernetes · AWS · MLOps**
+- **CS Undergraduate** at Namal University Mianwali, GPA: 3.0/4.0 *(Class of 2027)*
+- Primary focus on **DevOps, Cloud Infrastructure (AWS & Azure), and CI/CD automation**
+- Building **full-stack applications**, **AI/ML systems**, and **IoT network architectures**
+- Exploring **Cybersecurity**, **Information Security**, and **Computer Networks**
+- Active in **IEEE**, **AWS Cloud Club**, and **Namal Dramatics Club**
+- Freelancing on **Upwork & Fiverr** | Technical blogger at **nayarBlogs**
+- **2nd Place** — IEEE PSYWSC'25 Coding Competition
 
 ---
 
@@ -60,16 +64,17 @@ me.say_hi()
 
 <div align="center">
 
-| Full Stack Dev | AI & Cyber | DevOps & Cloud |
+| DevOps & Cloud | Full Stack Dev | AI & Machine Learning |
 |:-:|:-:|:-:|
-| React · Node.js · Flask | PyTorch · Scikit-learn · OpenCV | Azure · Linux · Docker |
-| MongoDB · MySQL · REST APIs | NLP · Computer Vision · Pandas | CI/CD · Git · Automation |
-| Responsive UI · TailwindCSS | Jupyter · NumPy · SciPy | Postman · JWT · Security |
+| AWS · Azure · Linux · CI/CD | React · Node.js · Flask · Express | PyTorch · Scikit-learn · OpenCV |
+| Docker · Git Workflows · Bash | MongoDB · MySQL · Oracle 21C | NumPy · Pandas · SciPy · Jupyter |
+| Automation · Shell Scripting | TailwindCSS · Bootstrap · REST | Predictive Modeling · Gen AI |
 
-| SEO Strategy | Systems & Architecture |
-|:-:|:-:|
-| Technical SEO · Backlink Outreach | RISC-V · Verilog · Computer Arch |
-| Guest Posting · Domain Authority | System Design · Problem Solving |
+| Cybersecurity & Networks | Systems & Architecture | SEO & Digital Growth |
+|:-:|:-:|:-:|
+| Information Security · IoT Security | RISC-V · Verilog · Computer Arch | Technical & Off-Page SEO |
+| Network QoS · Cisco Packet Tracer | DSA · OOP · Theory of Automata | Guest Posting · Backlink Strategy |
+| WSL · Firewalls · JWT Auth | Digital Logic Design · Assembly | Content Writing · Social Media |
 
 </div>
 
@@ -78,6 +83,7 @@ me.say_hi()
 ## Tech Stack
 
 ### Languages
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -85,9 +91,27 @@ me.say_hi()
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Verilog-EE4C2C?style=for-the-badge&logo=v&logoColor=white"/>
 </p>
 
-### AI · Machine Learning · Computer Vision
+### DevOps · Cloud · Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+</p>
+
+### AI · Machine Learning · Data Science
+
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
@@ -96,80 +120,100 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-### Frontend & Backend
+### Cybersecurity · Networking
+
+<p>
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WSL-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Network_QoS-0078D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+### Frontend · Backend · Databases
+
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
-
-### Databases
-<p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle_21C-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 </p>
 
-### DevOps · Cloud · Tools
+### Tools & IDEs
+
 <p>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
 </p>
 
 ---
 
 ## Featured Projects
 
-<div align="center">
+### AEGIS AI — Automated Earthquake Geospatial Intelligence System
+> AI-based predictive model integrated with live USGS earthquake feeds
 
-### AEGIS AI — Earthquake Disaster Response Platform
-> Real-time earthquake monitoring & ML-powered disaster response system
+Real-time earthquake monitoring and disaster response platform. Combines machine learning prediction models with geospatial routing optimization and an interactive dashboard — built to support faster emergency decision-making.
 
-**What it does:** Integrates live USGS earthquake feeds with machine learning prediction models, routing optimization, and an interactive response dashboard—built to save lives through faster decision-making.
-
-`Python` `Streamlit` `Machine Learning` `USGS APIs` `Data Processing` `Geospatial Analysis`
+`Python` `Streamlit` `Machine Learning` `USGS API` `Geospatial Analysis` `Data Processing`
 
 ---
 
-### Shop-X — Modern eCommerce Platform
-> High-performance storefront with clean UI and optimized frontend architecture
+### TraceIt — Lost & Found Mobile Application
+> Cross-platform mobile app with real-time database sync
 
-**What it does:** Dynamic product listings, responsive design, and a seamless shopping experience from first click to checkout.
+Full-featured lost and found reporting app with user authentication, item tracking, location tagging, and real-time updates via Firebase. Built natively for Android with a clean, intuitive UI.
 
-`HTML5` `CSS3` `JavaScript` `Responsive Design` `Frontend Architecture`
+`Kotlin` `Firebase` `MySQL` `Android Studio` `Mobile-First Design`
+
+---
+
+### Smart City IoT Network with QoS
+> Enterprise-grade IoT network architecture with Quality of Service implementation
+
+Designed and simulated a complete smart city network infrastructure with IoT device integration, traffic shaping, Quality of Service policies, and multi-layer network segmentation.
+
+`Cisco Packet Tracer` `IoT Architecture` `Network QoS` `Computer Networks`
 
 ---
 
 ### Spam Email Detection System
-> Intelligent email classifier powered by Naive Bayes & NLP preprocessing
+> Naive Bayes classifier with full NLP preprocessing pipeline
 
-**What it does:** Full preprocessing pipeline — tokenization, stopword removal, vectorization — feeding a trained Naive Bayes classifier with a real-time prediction interface.
+End-to-end spam detection system — tokenization, stopword removal, vectorization — feeding a trained Naive Bayes model with a real-time prediction interface and visualized results.
 
-`Python` `Scikit-learn` `Pandas` `NLP` `Naive Bayes` `ML Pipeline`
+`Python` `Scikit-learn` `Pandas` `Matplotlib` `NLP` `Excel`
 
 ---
 
-### RISC-V Processor
-> Custom pipelined CPU implementation from the ground up
+### RISC-V Single-Cycle Processor
+> Custom CPU implementation from ground up in Verilog HDL
 
-**What it does:** Fully pipelined RISC-V architecture with Verilog HDL modules, integrated memory systems, hazard detection, and simulation testbenches.
+Fully implemented RISC-V single-cycle processor with complete Verilog modules, memory integration, instruction decoding, hazard handling, and simulation testbenches.
 
-`Verilog` `Digital Logic` `Computer Architecture` `HDL Simulation`
+`Verilog` `Digital Logic Design` `Computer Architecture` `HDL Simulation`
 
-</div>
+---
+
+### Shop-X — Modern eCommerce Platform
+> High-performance storefront with optimized frontend architecture
+
+Responsive eCommerce UI with dynamic product listings, clean component structure, and a seamless shopping experience across all devices.
+
+`HTML5` `CSS3` `JavaScript` `Responsive Design`
 
 ---
 
@@ -188,9 +232,13 @@ me.say_hi()
 
 </div>
 
+---
+
+## GitHub Trophies
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nayar-900&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=nayar-900&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 
 </div>
 
@@ -198,29 +246,103 @@ me.say_hi()
 
 ## Experience
 
-### Web Developer Intern — NexusSecure
-- Built and optimized frontend interfaces and responsive web systems
-- Collaborated on debugging, feature implementation, and code reviews
+### Publicity & Public Visibility Lead — IEEE Namal Student Branch
+`Jun 2025 – Present`
+- Leading publicity campaigns to enhance the branch's online visibility across social platforms
+- Designing promotional content and coordinating announcements for IEEE events and activities
+- Working with the executive team to maintain consistent branding and outreach strategy
 
-### Web Developer Intern — CodeAlpha
-- Developed web-based projects and interactive UI components
-- Enhanced responsiveness, performance, and user interaction flow
+### AWS Namal Cloud Club — Core Member
+`Dec 2025 – Present`
+- Participating in cloud-focused workshops and learning sessions on AWS fundamentals
+- Collaborating with peers on cloud computing concepts and real-world use cases
 
-### SEO Specialist & Content Strategist *(Freelance)*
-- Managed large-scale guest posting and backlink outreach campaigns
-- Led technical SEO audits and domain authority growth initiatives
-- Delivered measurable organic traffic improvements for multiple clients
+### Namal Dramatics Club — Marketing Head
+`Oct 2025 – Present`
+- Managing marketing strategies to promote theatrical events and club initiatives
+- Designing posters, social media content, and event announcements
+
+### Front-End Development Intern — Internship Pakistan
+`Aug 2025 – Oct 2025`
+- Built responsive UI components using HTML, CSS, and JavaScript with mobile-first practices
+- Converted design mockups into functional web pages and collaborated on UI debugging
+
+### Student Learning Fellow — DEV Weekends & ACM UET
+`Jun 2025 – Sep 2025`
+- LeetCode problem solving, DSA analysis, project building, and mentorship
+- Gained industrial-ready experience in Android development (multi-language)
+
+### Head of Marketing — DEN Namal
+`Jul 2024 – Present`
+- Led a team of content creators and digital marketers to execute high-ROI outreach campaigns
+- Spearheaded content writing strategies to increase domain authority
+- Coordinated cross-platform promotions and maintained consistent branding
+
+### SEO Outreach Specialist — IZOOF
+`Aug 2024 – Jan 2025`
+- Built and managed partnerships with content websites for guest posting
+- Managed email campaigns targeting niche bloggers and influencers
+- Increased website traffic through strategic outreach and placement efforts
+
+### Technical Blogger — Jetpack by WordPress (nayarBlogs)
+`Jul 2023 – Present`
+- Writing concise, engaging blog posts on tech trends, digital productivity, and tutorials
+- Utilizing tags and keyword-rich descriptions to boost organic reach
+
+---
+
+## Certifications & Achievements
+
+<div align="center">
+
+| Certification | Issuer |
+|:--|:--|
+| ML with Python | IBM x Coursera |
+| IoT for Everyone | UET Peshawar x Coursera |
+| Foundations & Advanced OOP | 10 Pearls University |
+| Wireframes to Prototypes | CaLARTS x Coursera |
+| Introduction to Python | DataCamp |
+| Creating a VS Code Extension | MLSA (Microsoft) |
+| World Water Day 2025 | UNESCO x CUI |
+| AI Integrated Leadership Program | ASPIRE Institute |
+| HEC Gen AI Training | Pak Angels |
+
+</div>
+
+**Competitions & Leadership Roles:**
+- **2nd Position** — IEEE PSYWSC'25 Coding Competition
+- **Ambassador** — IEEE Day'25 & YESIST'26
+- **Social Media Head** — IEEE SAC Islamabad
+- **Cohort 4 Alumnus** — ASPIRE Leadership Program 2025
+- **Student Member** — IEEE (2 Years)
+- **Participant** — HEC Gen AI Training by Pak Angels
+
+---
+
+## Relevant Coursework
+
+<div align="center">
+
+| Core CS | Systems & Networks | Mathematics & Theory |
+|:-:|:-:|:-:|
+| Data Structures | Computer Organization & AL | Discrete Structures |
+| Analysis of Algorithms | Computer Architecture | Theory of Automata |
+| Object Oriented Programming | Digital Logic Design | Software Engineering |
+| Database Systems | Information Communication Technology | Programming Fundamentals |
+
+</div>
 
 ---
 
 ## Current Goals
 
 ```
-Ship production-grade AI systems with real-world impact
-Master Docker, Kubernetes & cloud-native DevOps
-Contribute meaningfully to open-source AI/ML projects
-Grow as a full-cycle freelance engineer
-Achieve AWS / Azure certification
+[ ] Master Docker, Kubernetes & cloud-native DevOps pipelines
+[ ] Achieve AWS Cloud Practitioner / Azure Fundamentals certification
+[ ] Build production-grade AI systems with measurable real-world impact
+[ ] Contribute meaningfully to open-source security and ML projects
+[ ] Expand expertise in Cybersecurity and ethical hacking fundamentals
+[ ] Grow as a full-cycle freelance engineer on Upwork & Fiverr
 ```
 
 ---
@@ -233,12 +355,16 @@ Achieve AWS / Azure certification
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:rayanbadar900@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://github.com/nayar-900">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://linktr.ee/your-linktree">
+  <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://www.upwork.com/freelancers/your-profile">
@@ -255,6 +381,6 @@ Achieve AWS / Azure certification
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1f35,100:0d1117&height=120&section=footer&text=Let%27s%20build%20something%20that%20matters.&fontSize=22&fontColor=58a6ff&fontAlignY=65&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1f35,100:0d1117&height=120&section=footer&text=Building+systems+that+solve+problems.&fontSize=22&fontColor=58a6ff&fontAlignY=65&animation=twinkling" />
 
 </div>
