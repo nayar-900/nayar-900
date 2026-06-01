@@ -252,17 +252,23 @@ Responsive eCommerce UI with dynamic product listings, clean component structure
 
 ---
 
-## GitHub Trophies
- 
+## Achievements & Stats
+
 <div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=nayar-900&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8&row=1&title=Commits,Repositories,Stars,Followers" />
+
+![High Committer](https://img.shields.io/badge/Commits-High_Committer_%7C_130pt-ffa657?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
+![Repo Creator](https://img.shields.io/badge/Repositories-Middle_Repo_Creator_%7C_15pt-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![First Friend](https://img.shields.io/badge/Followers-First_Friend_%7C_1pt-3fb950?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![Experience](https://img.shields.io/badge/Experience-Newbie_%7C_5pt-bc8cff?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d1117)
 
 </div>
 
 <div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=nayar-900&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8&row=1&title=Issues,PullRequest,Reviews,Experience" />
+
+![Total Contributions](https://img.shields.io/badge/Total_Contributions-366-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![Longest Streak](https://img.shields.io/badge/Longest_Streak-6_Days-ffa657?style=for-the-badge&logo=fire&logoColor=white&labelColor=0d1117)
+![2nd Place IEEE](https://img.shields.io/badge/IEEE_PSYWSC'25-2nd_Place_Coding-gold?style=for-the-badge&logo=ieee&logoColor=white&labelColor=0d1117)
+![AWS Cloud Club](https://img.shields.io/badge/AWS_Cloud_Club-Core_Member-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d1117)
 
 </div>
 
