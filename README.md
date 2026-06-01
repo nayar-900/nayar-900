@@ -252,6 +252,25 @@ Responsive eCommerce UI with dynamic product listings, clean component structure
 
 ---
 
+## GitHub Analytics
+ 
+<div align="center">
+![Total Contributions](https://img.shields.io/badge/Total_Contributions-374-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![Longest Streak](https://img.shields.io/badge/Longest_Streak-6_Days-ffa657?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![Active Since](https://img.shields.io/badge/Active_Since-Aug_2024-3fb950?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![Repositories](https://img.shields.io/badge/Repositories-Public_&_Private-bc8cff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+ 
+</div>
+<div align="center">
+<!-- github-stats-level — self-hosted, very reliable on GitHub Camo -->
+<img src="https://github-stats-alpha.vercel.app/api?username=nayar-900&cc=0d1117&tc=58a6ff&ic=ffa657&bc=0d1117" />
+</div>
+<div align="center">
+<!-- githubchart.com — renders as a real SVG contribution heatmap, no Camo issues -->
+<img src="https://ghchart.rshah.org/58a6ff/nayar-900" alt="Rayan Badar GitHub Contribution Chart" />
+</div>
+---
+
 ## Certifications & Achievements
 
 <div align="center">
