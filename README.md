@@ -253,12 +253,16 @@ Responsive eCommerce UI with dynamic product listings, clean component structure
 ---
 
 ## GitHub Trophies
+ 
+<div align="center">
+  
+<img src="https://github-profile-trophy.vercel.app/?username=nayar-900&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8&row=1&title=Commits,Repositories,Stars,Followers" />
+
+</div>
 
 <div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=nayar-900&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12" />
-</a>
+  
+<img src="https://github-profile-trophy.vercel.app/?username=nayar-900&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8&row=1&title=Issues,PullRequest,Reviews,Experience" />
 
 </div>
 
