@@ -238,7 +238,9 @@ Responsive eCommerce UI with dynamic product listings, clean component structure
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nayar-900&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nayar-900&theme=algolia&no-frame=true&column=4&margin-w=15" />
+</p>
 
 </div>
 
