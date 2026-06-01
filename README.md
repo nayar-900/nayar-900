@@ -225,14 +225,6 @@ Responsive eCommerce UI with dynamic product listings, clean component structure
 <!-- NOTE: github-readme-stats requires a token on their end to work reliably.
      Using alternate reliable providers below. -->
 
-<div align="center">
-
-<a href="https://github.com/nayar-900">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nayar-900&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=ffa657&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayar-900&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=10" />
-</a>
-
-</div>
 
 <div align="center">
 
