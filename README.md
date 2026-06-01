@@ -6,7 +6,7 @@
   <img width="100%" src="https://svg-banners.vercel.app/api?type=glitch&text1=Rayan%20Badar&width=900&height=160&textColor1=58a6ff&textColor2=ffa657" />
 </picture>
 
-<h3>DevOps & Cloud &nbsp;|&nbsp; Full Stack &nbsp;|&nbsp; AI Systems &nbsp;|&nbsp; Cybersecurity &nbsp;|&nbsp; SEO</h3>
+<h3>DevOps & Cloud &nbsp;|&nbsp; Full Stack &nbsp;|&nbsp; AI Systems &nbsp;|&nbsp; Cybersecurity &nbsp;|&nbsp; Off-Page SEO</h3>
 
 </div>
 
@@ -16,7 +16,7 @@
 
 <br/>
 
-<!-- Badges: using static shields only — no dynamic github API calls that break -->
+<!-- Badges: using static shields only — no dynamic GitHub API calls that break -->
 <img src="https://img.shields.io/badge/GitHub-nayar--900-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=58a6ff" />
 <img src="https://img.shields.io/badge/Location-Bahawalpur%2C_Pakistan-0d1117?style=for-the-badge&logo=googlemaps&logoColor=white&color=1f6feb" />
 <img src="https://komarev.com/ghpvc/?username=nayar-900&style=for-the-badge&color=blueviolet&labelColor=0d1117&label=Profile+Views" />
@@ -252,28 +252,6 @@ Responsive eCommerce UI with dynamic product listings, clean component structure
 
 ---
 
-## Achievements & Stats
-
-<div align="center">
-
-![High Committer](https://img.shields.io/badge/Commits-High_Committer_%7C_130pt-ffa657?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
-![Repo Creator](https://img.shields.io/badge/Repositories-Middle_Repo_Creator_%7C_15pt-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
-![First Friend](https://img.shields.io/badge/Followers-First_Friend_%7C_1pt-3fb950?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
-![Experience](https://img.shields.io/badge/Experience-Newbie_%7C_5pt-bc8cff?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d1117)
-
-</div>
-
-<div align="center">
-
-![Total Contributions](https://img.shields.io/badge/Total_Contributions-366-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
-![Longest Streak](https://img.shields.io/badge/Longest_Streak-6_Days-ffa657?style=for-the-badge&logo=fire&logoColor=white&labelColor=0d1117)
-![2nd Place IEEE](https://img.shields.io/badge/IEEE_PSYWSC'25-2nd_Place_Coding-gold?style=for-the-badge&logo=ieee&logoColor=white&labelColor=0d1117)
-![AWS Cloud Club](https://img.shields.io/badge/AWS_Cloud_Club-Core_Member-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d1117)
-
-</div>
-
----
-
 ## Certifications & Achievements
 
 <div align="center">
@@ -334,11 +312,11 @@ Responsive eCommerce UI with dynamic product listings, clean component structure
 
 <div align="center">
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/rayan-badar-b64542367/)">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:rayanbadar900@gmail.com">
+<a href="mailto:bscs23f18@namal.edu.pk">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
@@ -346,16 +324,12 @@ Responsive eCommerce UI with dynamic product listings, clean component structure
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://linktr.ee/your-linktree">
+<a href="[https://linktr.ee/your-linktree](https://linktr.ee/nayar_900)">
   <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://www.upwork.com/freelancers/your-profile">
+<a href="[https://www.upwork.com/freelancers/your-profile](https://www.upwork.com/freelancers/~012f7aa1fc04a1b33c)">
   <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.fiverr.com/your-profile">
-  <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
 </a>
 
 </div>
@@ -364,7 +338,7 @@ Responsive eCommerce UI with dynamic product listings, clean component structure
 
 <div align="center">
 <br/>
-<strong>Building systems that solve problems.</strong>
+<strong>Building systems that solve problems ...</strong>
 <br/><br/>
 
 ![footer line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
