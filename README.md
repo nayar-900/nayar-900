@@ -1,21 +1,24 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0f3460&height=200&section=header&text=Rayan%20Badar&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=DevOps%20%26%20Cloud%20%7C%20Full%20Stack%20%7C%20AI%20Systems%20%7C%20Cybersecurity%20%7C%20SEO&descAlignY=60&descSize=16&descColor=8b949e&animation=twinkling" />
+<!-- HEADER: Using svg-banners which is reliable on GitHub -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://svg-banners.vercel.app/api?type=glitch&text1=Rayan%20Badar&width=900&height=160&textColor1=58a6ff&textColor2=ffa657" />
+  <img width="100%" src="https://svg-banners.vercel.app/api?type=glitch&text1=Rayan%20Badar&width=900&height=160&textColor1=58a6ff&textColor2=ffa657" />
+</picture>
+
+<h3>DevOps & Cloud &nbsp;|&nbsp; Full Stack &nbsp;|&nbsp; AI Systems &nbsp;|&nbsp; Cybersecurity &nbsp;|&nbsp; SEO</h3>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&lines=CS+Undergraduate+%40+Namal+University+(Class+of+2027);DevOps+Engineer+%7C+Cloud+Practitioner+(AWS+%26+Azure);Full+Stack+Web+Developer+(React+%7C+Node.js+%7C+Flask);AI+%26+Machine+Learning+Systems+Builder;Cybersecurity+%26+Computer+Networks+Enthusiast;IEEE+Publicity+Lead+%7C+AWS+Cloud+Club+Member;SEO+Strategist+%26+Technical+Content+Writer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=CS+Undergraduate+%40+Namal+University+(Class+of+2027);DevOps+Engineer+%7C+Cloud+Practitioner+(AWS+%26+Azure);Full+Stack+Web+Developer+(React+%7C+Node.js+%7C+Flask);AI+%26+Machine+Learning+Systems+Builder;Cybersecurity+%26+Computer+Networks+Enthusiast;IEEE+Publicity+Lead+%7C+AWS+Cloud+Club+Member;SEO+Strategist+%26+Technical+Content+Writer)](https://git.io/typing-svg)
 
 <br/>
 
-<a href="https://github.com/nayar-900">
-  <img src="https://img.shields.io/github/followers/nayar-900?label=Followers&style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github" />
-</a>
-<a href="https://github.com/nayar-900?tab=stars">
-  <img src="https://img.shields.io/github/stars/nayar-900?affiliations=OWNER&style=for-the-badge&color=ffa657&labelColor=0d1117&logo=github&label=Stars" />
-</a>
+<!-- Badges: using static shields only — no dynamic github API calls that break -->
+<img src="https://img.shields.io/badge/GitHub-nayar--900-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=58a6ff" />
+<img src="https://img.shields.io/badge/Location-Bahawalpur%2C_Pakistan-0d1117?style=for-the-badge&logo=googlemaps&logoColor=white&color=1f6feb" />
 <img src="https://komarev.com/ghpvc/?username=nayar-900&style=for-the-badge&color=blueviolet&labelColor=0d1117&label=Profile+Views" />
 
 </div>
@@ -94,20 +97,20 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Verilog-EE4C2C?style=for-the-badge&logo=v&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Verilog-B22222?style=for-the-badge&logo=v&logoColor=white"/>
 </p>
 
 ### DevOps · Cloud · Infrastructure
 
 <p>
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
 
 ### AI · Machine Learning · Data Science
@@ -115,7 +118,7 @@ me.say_hi()
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
@@ -127,8 +130,8 @@ me.say_hi()
 
 <p>
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WSL-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WSL2-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Network_QoS-0078D7?style=for-the-badge&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
@@ -141,7 +144,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -152,9 +155,9 @@ me.say_hi()
 ### Tools & IDEs
 
 <p>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
 </p>
@@ -219,16 +222,31 @@ Responsive eCommerce UI with dynamic product listings, clean component structure
 
 ## GitHub Analytics
 
+<!-- NOTE: github-readme-stats requires a token on their end to work reliably.
+     Using alternate reliable providers below. -->
+
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=nayar-900&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=ffa657" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayar-900&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
+<a href="https://github.com/nayar-900">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nayar-900&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=ffa657&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayar-900&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=10" />
+</a>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=nayar-900&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=58a6ff&ring=ffa657&fire=ffa657&currStreakNum=ffffff&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=nayar-900&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=58A6FF&ring=FFA657&fire=FFA657&currStreakNum=FFFFFF&sideNums=8B949E&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&border_radius=10" />
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/nayar-900">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nayar-900&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=ffa657&point=58a6ff&area=true&area_color=1f6feb" />
+</a>
 
 </div>
 
@@ -238,58 +256,11 @@ Responsive eCommerce UI with dynamic product listings, clean component structure
 
 <div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nayar-900&theme=algolia&no-frame=true&column=4&margin-w=15" />
-</p>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=nayar-900&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12" />
+</a>
 
 </div>
-
----
-
-## Experience
-
-### Publicity & Public Visibility Lead — IEEE Namal Student Branch
-`Jun 2025 – Present`
-- Leading publicity campaigns to enhance the branch's online visibility across social platforms
-- Designing promotional content and coordinating announcements for IEEE events and activities
-- Working with the executive team to maintain consistent branding and outreach strategy
-
-### AWS Namal Cloud Club — Core Member
-`Dec 2025 – Present`
-- Participating in cloud-focused workshops and learning sessions on AWS fundamentals
-- Collaborating with peers on cloud computing concepts and real-world use cases
-
-### Namal Dramatics Club — Marketing Head
-`Oct 2025 – Present`
-- Managing marketing strategies to promote theatrical events and club initiatives
-- Designing posters, social media content, and event announcements
-
-### Front-End Development Intern — Internship Pakistan
-`Aug 2025 – Oct 2025`
-- Built responsive UI components using HTML, CSS, and JavaScript with mobile-first practices
-- Converted design mockups into functional web pages and collaborated on UI debugging
-
-### Student Learning Fellow — DEV Weekends & ACM UET
-`Jun 2025 – Sep 2025`
-- LeetCode problem solving, DSA analysis, project building, and mentorship
-- Gained industrial-ready experience in Android development (multi-language)
-
-### Head of Marketing — DEN Namal
-`Jul 2024 – Present`
-- Led a team of content creators and digital marketers to execute high-ROI outreach campaigns
-- Spearheaded content writing strategies to increase domain authority
-- Coordinated cross-platform promotions and maintained consistent branding
-
-### SEO Outreach Specialist — IZOOF
-`Aug 2024 – Jan 2025`
-- Built and managed partnerships with content websites for guest posting
-- Managed email campaigns targeting niche bloggers and influencers
-- Increased website traffic through strategic outreach and placement efforts
-
-### Technical Blogger — Jetpack by WordPress (nayarBlogs)
-`Jul 2023 – Present`
-- Writing concise, engaging blog posts on tech trends, digital productivity, and tutorials
-- Utilizing tags and keyword-rich descriptions to boost organic reach
 
 ---
 
@@ -344,7 +315,7 @@ Responsive eCommerce UI with dynamic product listings, clean component structure
 [ ] Build production-grade AI systems with measurable real-world impact
 [ ] Contribute meaningfully to open-source security and ML projects
 [ ] Expand expertise in Cybersecurity and ethical hacking fundamentals
-[ ] Grow as a full-cycle freelance engineer on Upwork & Fiverr (Optional)
+[ ] Grow as a full-cycle freelance engineer on Upwork & Fiverr
 ```
 
 ---
@@ -362,7 +333,7 @@ Responsive eCommerce UI with dynamic product listings, clean component structure
 </a>
 &nbsp;
 <a href="https://github.com/nayar-900">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://linktr.ee/your-linktree">
@@ -382,7 +353,10 @@ Responsive eCommerce UI with dynamic product listings, clean component structure
 ---
 
 <div align="center">
+<br/>
+<strong>Building systems that solve problems.</strong>
+<br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1f35,100:0d1117&height=120&section=footer&text=Building+systems+that+solve+problems.&fontSize=22&fontColor=58a6ff&fontAlignY=65&animation=twinkling" />
+![footer line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
 </div>
