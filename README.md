@@ -252,20 +252,6 @@ Responsive eCommerce UI with dynamic product listings, clean component structure
 
 ---
 
-## GitHub Analytics
- 
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nayar-900&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=ffa657&border_radius=10&cache_seconds=1800" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayar-900&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=10&cache_seconds=1800" />
-</div>
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=nayar-900&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=58A6FF&ring=FFA657&fire=FFA657&currStreakNum=FFFFFF&sideNums=8B949E&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&border_radius=10&date_format=j%20M%5B%20Y%5D" />
-</div>
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nayar-900&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=ffa657&point=58a6ff&area=true&area_color=1f6feb" />
-</div>
----
-
 ## Certifications & Achievements
 
 <div align="center">
