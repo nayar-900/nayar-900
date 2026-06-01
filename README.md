@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Systems+Builder;Cloud+%26+DevOps+Enthusiast;Cybersecurity+%26+Networks" />
-</p>
+<div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0f3460&height=200&section=header&text=Rayan%20Badar&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=DevOps%20%26%20Cloud%20%7C%20Full%20Stack%20%7C%20AI%20Systems%20%7C%20Cybersecurity%20%7C%20SEO&descAlignY=60&descSize=16&descColor=8b949e&animation=twinkling" />
 
 </div>
