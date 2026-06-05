@@ -225,7 +225,6 @@ Responsive eCommerce UI with dynamic product listings, clean component structure
 <!-- NOTE: github-readme-stats requires a token on their end to work reliably.
      Using alternate reliable providers below. -->
 
-
 <div align="center">
 
 <a href="https://git.io/streak-stats">
