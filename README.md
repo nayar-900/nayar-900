@@ -230,21 +230,6 @@ me.say_hi()
 
 ---
 
-## Relevant Coursework
-
-<div align="center">
-
-| Core CS | Systems & Networks | Mathematics & Theory |
-|:-:|:-:|:-:|
-| Data Structures | Computer Organization & AL | Discrete Structures |
-| Analysis of Algorithms | Computer Architecture | Theory of Automata |
-| Object Oriented Programming | Digital Logic Design | Software Engineering |
-| Database Systems | Information Communication Technology | Programming Fundamentals |
-
-</div>
-
----
-
 ## Current Goals
 
 ```
