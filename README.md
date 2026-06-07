@@ -40,7 +40,7 @@
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/2nd%20Place-1a3a6b?style=for-the-badge" /><br/><br/>
 <strong>IEEE PSYWSC'25</strong><br/>
-Coding Competition<br/>
+National Coding Competition<br/>
 <sub>IEEE Namal Student Branch</sub>
 </td>
 <td align="center" width="25%">
@@ -57,7 +57,7 @@ Program Graduate<br/>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/Ambassador-6b1a1a?style=for-the-badge" /><br/><br/>
-<strong>IEEE Day'25 / YESIST'26</strong><br/>
+<strong>IEEE Day'25 and YESIST'26</strong><br/>
 Global IEEE Initiatives<br/>
 <sub>IEEE International</sub>
 </td>
