@@ -108,13 +108,6 @@ me.say_hi()
 
 > AI-based predictive model integrated with live USGS earthquake feeds for real-time disaster response.
 
-End-to-end disaster monitoring platform combining machine learning prediction models with geospatial routing optimization and an interactive response dashboard. Built to reduce emergency decision latency by surfacing actionable intelligence from raw seismic data streams.
-
-**Engineering decisions worth noting:**
-- USGS API feeds normalized in real time before hitting the prediction pipeline — no stale batch processing
-- Geospatial routing triggers only on filtered high-magnitude events, preventing alert fatigue in field use
-- Streamlit dashboard designed for minimal-click operation: data ingestion to actionable output in under 3 interactions
-
 `Python` · `Streamlit` · `Scikit-learn` · `USGS API` · `Pandas` · `Geospatial Analysis` · `Data Processing`
 
 ---
@@ -122,13 +115,6 @@ End-to-end disaster monitoring platform combining machine learning prediction mo
 ### TraceIt — Lost & Found Mobile Application
 
 > Android-native app with real-time Firebase sync for university-scale lost and found management.
-
-Full-featured item reporting system with user authentication, category-tagged item tracking, location metadata capture, and real-time match notifications. Built with offline-first data handling so the app remains functional under poor campus network conditions.
-
-**Engineering decisions worth noting:**
-- Firestore listeners used for real-time match alerts instead of polling — zero unnecessary reads
-- Offline persistence enabled via Firestore local cache; sync triggered automatically on reconnect
-- FCM push notifications sent only on confirmed item-to-report matches to avoid notification spam
 
 `Kotlin` · `Firebase` · `Firestore` · `FCM` · `MySQL` · `Android Studio` · `Mobile-First Design`
 
@@ -138,13 +124,6 @@ Full-featured item reporting system with user authentication, category-tagged it
 
 > Enterprise-grade smart city network simulation with multi-layer IoT device integration and Quality of Service enforcement.
 
-Designed and simulated a complete network infrastructure covering IoT device onboarding, traffic classification by service tier, QoS policy application, and multi-zone network segmentation. Modeled on real production network security posture.
-
-**Design decisions worth noting:**
-- QoS policies applied per traffic class — voice, video, data, IoT telemetry — to prevent congestion under peak load
-- Network segmented into four zones: management, sensor, user, and DMZ, mirroring real-world enterprise architecture
-- Stress-tested against simulated traffic spikes to validate QoS thresholds before finalization
-
 `Cisco Packet Tracer` · `IoT Architecture` · `Network QoS` · `VLANs` · `Computer Networks`
 
 ---
@@ -153,8 +132,6 @@ Designed and simulated a complete network infrastructure covering IoT device onb
 
 > Naive Bayes classifier with a full NLP preprocessing pipeline and real-time prediction interface.
 
-End-to-end ML pipeline: raw email text → tokenization → stopword removal → TF-IDF vectorization → trained Naive Bayes model → confidence-scored predictions. Results visualized with Matplotlib and exportable to Excel for audit trails.
-
 `Python` · `Scikit-learn` · `Pandas` · `Matplotlib` · `NLP` · `Excel`
 
 ---
@@ -162,8 +139,6 @@ End-to-end ML pipeline: raw email text → tokenization → stopword removal →
 ### RISC-V Single-Cycle Processor
 
 > Custom CPU implementation in Verilog HDL — fully designed from instruction fetch to writeback stage.
-
-Implemented a complete RISC-V single-cycle processor: instruction memory, register file, ALU, data memory, and control unit in modular Verilog. Verified against simulation testbenches with waveform analysis across the full RV32I instruction set.
 
 `Verilog` · `Digital Logic Design` · `Computer Architecture` · `HDL Simulation`
 
