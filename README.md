@@ -170,6 +170,7 @@ me.say_hi()
 ### DevOps & Cloud
 ![AWS](https://img.shields.io/badge/Amazon_AWS-1a0000?style=flat-square&logo=amazonaws&logoColor=cc3333)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-1a0000?style=flat-square&logo=microsoftazure&logoColor=cc3333)
+![GCP](https://img.shields.io/badge/Google_Cloud-1a0000?style=flat-square&logo=googlecloud&logoColor=cc3333)
 ![Linux](https://img.shields.io/badge/Linux-1a0000?style=flat-square&logo=linux&logoColor=cc3333)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-1a0000?style=flat-square&logo=ubuntu&logoColor=cc3333)
 ![Git](https://img.shields.io/badge/Git-1a0000?style=flat-square&logo=git&logoColor=cc3333)
