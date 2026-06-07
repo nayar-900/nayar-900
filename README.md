@@ -1,166 +1,201 @@
 <div align="center">
 
-<!-- HEADER: Using svg-banners which is reliable on GitHub -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://svg-banners.vercel.app/api?type=glitch&text1=Rayan%20Badar&width=900&height=160&textColor1=58a6ff&textColor2=ffa657" />
-  <img width="100%" src="https://svg-banners.vercel.app/api?type=glitch&text1=Rayan%20Badar&width=900&height=160&textColor1=58a6ff&textColor2=ffa657" />
-</picture>
-
-<h3>DevOps & Cloud &nbsp;|&nbsp; Full Stack &nbsp;|&nbsp; AI Systems &nbsp;|&nbsp; Cybersecurity &nbsp;|&nbsp; SEO</h3>
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=CS+Undergraduate+%40+Namal+University+(Class+of+2027);DevOps+Engineer+%7C+Cloud+Practitioner+(AWS+%26+Azure);Full+Stack+Web+Developer+(React+%7C+Node.js+%7C+Flask);AI+%26+Machine+Learning+Systems+Builder;Cybersecurity+%26+Computer+Networks+Enthusiast;IEEE+Publicity+Lead+%7C+AWS+Cloud+Club+Member;SEO+Strategist+%26+Technical+Content+Writer)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0a1628,100:0d2137&height=200&section=header&text=Rayan%20Badar&fontSize=60&fontColor=ffffff&fontAlignY=50&desc=DevOps%20%26%20Cloud%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20SEO&descSize=15&descAlignY=72&descColor=8b949e&animation=scaleIn&stroke=58A6FF&strokeWidth=1" />
 
 <br/>
 
-<!-- Badges: using static shields only — no dynamic github API calls that break -->
-<img src="https://img.shields.io/badge/GitHub-nayar--900-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=58a6ff" />
-<img src="https://img.shields.io/badge/Location-Bahawalpur%2C_Pakistan-0d1117?style=for-the-badge&logo=googlemaps&logoColor=white&color=1f6feb" />
-<img src="https://komarev.com/ghpvc/?username=nayar-900&style=for-the-badge&color=blueviolet&labelColor=0d1117&label=Profile+Views" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=BS+Computer+Science+%E2%80%94+Namal+University+Mianwali+(2027);DevOps+Engineer+%7C+Cloud+Practitioner+(AWS+%26+Azure);Full+Stack+Web+Developer+(React+%7C+Node.js+%7C+Flask);AI+%26+ML+Systems+Builder+%7C+Cybersecurity+Enthusiast;IEEE+Publicity+Lead+%7C+AWS+Cloud+Club+Core+Member)](https://git.io/typing-svg)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=nayar-900&label=Profile+Views&color=1a3a6b&style=flat-square)
+
+<br/>
+
+<a href="https://www.linkedin.com/in/rayan-badar-b64542367/"><img src="https://img.shields.io/badge/LinkedIn-0a1628?style=for-the-badge&logo=linkedin&logoColor=58A6FF" /></a>
+&nbsp;
+<a href="mailto:rayanbadar900@gmail.com"><img src="https://img.shields.io/badge/Email-0a1628?style=for-the-badge&logo=gmail&logoColor=cc3333" /></a>
+&nbsp;
+<a href="https://github.com/nayar-900"><img src="https://img.shields.io/badge/GitHub-0a1628?style=for-the-badge&logo=github&logoColor=ffffff" /></a>
+&nbsp;
+<a href="https://linktr.ee/nayar_900"><img src="https://img.shields.io/badge/Linktree-0a1628?style=for-the-badge&logo=linktree&logoColor=22c55e" /></a>
+&nbsp;
+<a href="https://www.upwork.com/freelancers/~012f7aa1fc04a1b33c"><img src="https://img.shields.io/badge/Upwork-0a1628?style=for-the-badge&logo=upwork&logoColor=22c55e" /></a>
 
 </div>
 
 ---
-
-## About Me
-
-```python
-class RayanBadar:
-    def __init__(self):
-        self.name         = "Rayan Badar"
-        self.location     = "Bahawalpur, Pakistan"
-        self.university   = "Namal University Mianwali — BSCS (2023–2027)"
-        self.gpa          = "3.04 / 4.00"
-        self.roles        = [
-            "DevOps & Cloud Engineer",
-            "Full Stack Developer",
-            "AI Automation & Systems Builder",
-            "Cybersecurity Enthusiast",
-            "Computer Networks Engineer",
-            "SEO Strategist"
-        ]
-        self.communities  = ["IEEE Namal Student Branch", "AWS Namal Cloud Club", "DEN Namal"]
-        self.contact      = ["rayanbadar900@gmail.com", "bscs23f18@namal.edu.pk"]
-        self.languages    = ["English (Fluent)", "Urdu (Fluent)", "Saraiki (Intermediate)"]
-
-    def say_hi(self):
-        print("Results-driven CS student building real solutions — from AI systems to cloud pipelines ...")
-
-me = RayanBadar()
-me.say_hi()
-```
-
-- **CS Undergraduate** at Namal University Mianwali, GPA: 3.04/4.00 *(Class of 2027)*
-- Primary focus on **DevOps, Cloud Infrastructure (AWS & Azure), and CI/CD automation**
-- Building **full-stack applications**, **AI/ML systems**, and **IoT network architectures**
-- Exploring **Cybersecurity**, **Information Security**, and **Computer Networks**
-- Active in **IEEE**, **AWS Cloud Club**, and **Namal Dramatics Club**
-- Freelancing on **Upwork & Fiverr** | Technical blogger at **nayarBlogs**
-- **2nd Place** — IEEE PSYWSC'25 Coding Competition
-
----
-
-## Core Focus Areas
 
 <div align="center">
 
-| DevOps & Cloud | Full Stack Dev | AI & Machine Learning |
-|:-:|:-:|:-:|
-| AWS · Azure · Linux · CI/CD | React · Node.js · Flask · Express | PyTorch · Scikit-learn · OpenCV |
-| Docker · Git Workflows · Bash | MongoDB · MySQL · Oracle 21C | NumPy · Pandas · SciPy · Jupyter |
-| Automation · Shell Scripting | TailwindCSS · Bootstrap · REST | Predictive Modeling · Gen AI |
-
-| Cybersecurity & Networks | Systems & Architecture | SEO & Digital Growth |
-|:-:|:-:|:-:|
-| Information Security · IoT Security | RISC-V · Verilog · Computer Arch | Technical & Off-Page SEO |
-| Network QoS · Cisco Packet Tracer | DSA · OOP · Theory of Automata | Guest Posting · Backlink Strategy |
-| WSL · Firewalls · JWT Auth | Digital Logic Design · Assembly | Content Writing · Social Media |
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/2nd%20Place-1a3a6b?style=for-the-badge&logoColor=white" /><br/><br/>
+<strong>IEEE PSYWSC'25</strong> — Coding Competition<br/>
+<sub>IEEE Namal Student Branch</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Ambassador-6b1a1a?style=for-the-badge&logoColor=white" /><br/><br/>
+<strong>IEEE Day'25 & YESIST'26</strong><br/>
+<sub>IEEE Global Initiatives</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Leadership%20Alumnus-0a2a1a?style=for-the-badge&logoColor=white" /><br/><br/>
+<strong>ASPIRE Leadership Program</strong> — Cohort 4<br/>
+<sub>ASPIRE Institute</sub>
+</td>
+</tr>
+</table>
 
 </div>
+
+---
+
+## About
+
+CS undergraduate at **Namal University Mianwali** with a primary focus on DevOps, cloud infrastructure, and full-stack development. I build systems end-to-end — from AI-powered predictive models and IoT network architectures to mobile applications and scalable web platforms.
+
+Active in **IEEE Namal Student Branch** (Publicity Lead), **AWS Namal Cloud Club** (Core Member), and **DEN Namal** (Head of Marketing). Freelancing on Upwork and writing technical content at **nayarBlogs**.
+
+```text
+Primary Focus     →  DevOps & Cloud (AWS · Azure · CI/CD · Linux)
+Building Now      →  Cloud-native pipelines · AI systems · Open-source contributions
+Open To           →  Freelance engineering · DevOps roles · AI-integrated product work
+GPA               →  3.04 / 4.00  —  Namal University Mianwali (2023–2027)
+```
+
+---
+
+## Projects
+
+### AEGIS AI — Automated Earthquake Geospatial Intelligence System
+
+> AI-based predictive model integrated with live USGS earthquake feeds for real-time disaster response.
+
+Built a complete disaster monitoring platform combining machine learning prediction models with geospatial routing optimization and an interactive response dashboard. Designed to reduce emergency decision-making latency by surfacing actionable geospatial intelligence from raw seismic data.
+
+**Engineering decisions worth noting:**
+- USGS API feeds processed and normalized in real time before being passed to the prediction pipeline — no stale batch data
+- Geospatial routing runs on filtered, high-magnitude events only to avoid alert fatigue
+- Streamlit dashboard built for field usability: minimal clicks from data ingestion to actionable output
+
+`Python` · `Streamlit` · `Scikit-learn` · `USGS API` · `Pandas` · `Geospatial Analysis`
+
+---
+
+### TraceIt — Lost & Found Mobile Application
+
+> Android app with real-time Firebase sync for university-scale lost and found management.
+
+Full-featured reporting platform with user authentication, item tracking with category tagging, location metadata, and real-time match notifications via Firebase Cloud Messaging. Built natively for Android with clean architecture and offline-first data handling.
+
+`Kotlin` · `Firebase` · `Firestore` · `FCM` · `MySQL` · `Android Studio`
+
+---
+
+### Smart City IoT Network with QoS
+
+> Enterprise-grade smart city network simulation with multi-layer IoT device integration and Quality of Service enforcement.
+
+Designed and simulated a complete network infrastructure covering IoT device onboarding, traffic classification, QoS policy application across service tiers, and multi-layer segmentation. Implemented using Cisco Packet Tracer with realistic device topologies and traffic load scenarios.
+
+**Design decisions:**
+- QoS policies applied per traffic class (voice, video, data, IoT telemetry) to prevent congestion under peak load
+- Network segmented into zones — management, sensor, user, and DMZ — to model real production security posture
+
+`Cisco Packet Tracer` · `IoT Architecture` · `Network QoS` · `VLANs` · `Computer Networks`
+
+---
+
+### Spam Email Detection System
+
+> Naive Bayes classifier with a full NLP preprocessing pipeline and real-time prediction interface.
+
+End-to-end ML pipeline: raw email text → tokenization → stopword removal → TF-IDF vectorization → trained Naive Bayes classifier → prediction with confidence scoring. Results visualized via Matplotlib with exportable reports to Excel.
+
+`Python` · `Scikit-learn` · `Pandas` · `Matplotlib` · `NLP` · `Excel`
+
+---
+
+### RISC-V Single-Cycle Processor
+
+> Custom CPU implementation in Verilog HDL — fully pipelined from instruction fetch to writeback.
+
+Designed and implemented a complete RISC-V single-cycle processor: instruction memory, register file, ALU, data memory, and control unit — all in modular Verilog. Verified against simulation testbenches with waveform analysis for correctness across the full instruction set.
+
+`Verilog` · `Digital Logic Design` · `Computer Architecture` · `HDL Simulation`
+
+---
+
+### Shop-X — eCommerce Storefront
+
+> Responsive eCommerce frontend with dynamic product listings and optimized component architecture.
+
+`HTML5` · `CSS3` · `JavaScript` · `Responsive Design`
 
 ---
 
 ## Tech Stack
 
 ### Languages
+![Python](https://img.shields.io/badge/Python-0d1f3c?style=flat-square&logo=python&logoColor=58A6FF)
+![C++](https://img.shields.io/badge/C++-0d1f3c?style=flat-square&logo=c%2B%2B&logoColor=58A6FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1f3c?style=flat-square&logo=javascript&logoColor=58A6FF)
+![SQL](https://img.shields.io/badge/SQL-0d1f3c?style=flat-square&logo=mysql&logoColor=58A6FF)
+![HTML5](https://img.shields.io/badge/HTML5-0d1f3c?style=flat-square&logo=html5&logoColor=58A6FF)
+![CSS3](https://img.shields.io/badge/CSS3-0d1f3c?style=flat-square&logo=css3&logoColor=58A6FF)
+![Bash](https://img.shields.io/badge/Bash-0d1f3c?style=flat-square&logo=gnubash&logoColor=58A6FF)
+![Kotlin](https://img.shields.io/badge/Kotlin-0d1f3c?style=flat-square&logo=kotlin&logoColor=58A6FF)
+![Verilog](https://img.shields.io/badge/Verilog-0d1f3c?style=flat-square&logoColor=58A6FF)
+![Assembly](https://img.shields.io/badge/Assembly-0d1f3c?style=flat-square&logoColor=58A6FF)
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Verilog-B22222?style=for-the-badge&logo=v&logoColor=white"/>
-</p>
+### DevOps & Cloud
+![AWS](https://img.shields.io/badge/Amazon_AWS-1a0000?style=flat-square&logo=amazonaws&logoColor=cc3333)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-1a0000?style=flat-square&logo=microsoftazure&logoColor=cc3333)
+![Linux](https://img.shields.io/badge/Linux-1a0000?style=flat-square&logo=linux&logoColor=cc3333)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-1a0000?style=flat-square&logo=ubuntu&logoColor=cc3333)
+![Git](https://img.shields.io/badge/Git-1a0000?style=flat-square&logo=git&logoColor=cc3333)
+![GitHub](https://img.shields.io/badge/GitHub-1a0000?style=flat-square&logo=github&logoColor=ffffff)
+![Vercel](https://img.shields.io/badge/Vercel-1a0000?style=flat-square&logo=vercel&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/Docker_(Learning)-1a0000?style=flat-square&logo=docker&logoColor=cc3333)
 
-### DevOps · Cloud · Infrastructure
+### AI & Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-0a1a0a?style=flat-square&logo=pytorch&logoColor=22c55e)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0a1a0a?style=flat-square&logo=scikitlearn&logoColor=22c55e)
+![OpenCV](https://img.shields.io/badge/OpenCV-0a1a0a?style=flat-square&logo=opencv&logoColor=22c55e)
+![NumPy](https://img.shields.io/badge/NumPy-0a1a0a?style=flat-square&logo=numpy&logoColor=22c55e)
+![Pandas](https://img.shields.io/badge/Pandas-0a1a0a?style=flat-square&logo=pandas&logoColor=22c55e)
+![SciPy](https://img.shields.io/badge/SciPy-0a1a0a?style=flat-square&logo=scipy&logoColor=22c55e)
+![Jupyter](https://img.shields.io/badge/Jupyter-0a1a0a?style=flat-square&logo=jupyter&logoColor=22c55e)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0a1a0a?style=flat-square&logo=python&logoColor=22c55e)
 
-<p>
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-</p>
-
-### AI · Machine Learning · Data Science
-
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-### Cybersecurity · Networking
-
-<p>
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WSL2-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Network_QoS-0078D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
+### Cybersecurity & Networking
+![Cisco](https://img.shields.io/badge/Cisco-0d1f3c?style=flat-square&logo=cisco&logoColor=58A6FF)
+![JWT](https://img.shields.io/badge/JWT-0d1f3c?style=flat-square&logo=jsonwebtokens&logoColor=58A6FF)
+![WSL2](https://img.shields.io/badge/WSL2-0d1f3c?style=flat-square&logo=windows&logoColor=58A6FF)
+![Postman](https://img.shields.io/badge/Postman-0d1f3c?style=flat-square&logo=postman&logoColor=58A6FF)
+![Firebase](https://img.shields.io/badge/Firebase-0d1f3c?style=flat-square&logo=firebase&logoColor=58A6FF)
+![Network QoS](https://img.shields.io/badge/Network_QoS-0d1f3c?style=flat-square&logoColor=58A6FF)
 
 ### Frontend · Backend · Databases
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle_21C-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-</p>
+![React](https://img.shields.io/badge/React-1a0000?style=flat-square&logo=react&logoColor=cc3333)
+![Node.js](https://img.shields.io/badge/Node.js-1a0000?style=flat-square&logo=nodedotjs&logoColor=cc3333)
+![Express](https://img.shields.io/badge/Express-1a0000?style=flat-square&logo=express&logoColor=ffffff)
+![Flask](https://img.shields.io/badge/Flask-1a0000?style=flat-square&logo=flask&logoColor=ffffff)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1a0000?style=flat-square&logo=tailwindcss&logoColor=cc3333)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1a0000?style=flat-square&logo=bootstrap&logoColor=cc3333)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a0000?style=flat-square&logo=mongodb&logoColor=cc3333)
+![MySQL](https://img.shields.io/badge/MySQL-1a0000?style=flat-square&logo=mysql&logoColor=cc3333)
+![Oracle 21C](https://img.shields.io/badge/Oracle_21C-1a0000?style=flat-square&logo=oracle&logoColor=cc3333)
+![WordPress](https://img.shields.io/badge/WordPress-1a0000?style=flat-square&logo=wordpress&logoColor=cc3333)
 
 ### Tools & IDEs
-
-<p>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
-</p>
+![VS Code](https://img.shields.io/badge/VS_Code-0a1a0a?style=flat-square&logo=visualstudiocode&logoColor=22c55e)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-0a1a0a?style=flat-square&logo=visualstudio&logoColor=22c55e)
+![Android Studio](https://img.shields.io/badge/Android_Studio-0a1a0a?style=flat-square&logo=androidstudio&logoColor=22c55e)
+![Cisco Packet Tracer](https://img.shields.io/badge/Packet_Tracer-0a1a0a?style=flat-square&logo=cisco&logoColor=22c55e)
+![LaTeX](https://img.shields.io/badge/LaTeX-0a1a0a?style=flat-square&logo=latex&logoColor=22c55e)
 
 ---
 
@@ -168,7 +203,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=nayar-900&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=58A6FF&ring=FFA657&fire=FFA657&currStreakNum=FFFFFF&sideNums=8B949E&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&border_radius=10" />
+<img src="https://streak-stats.demolab.com?user=nayar-900&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=58A6FF&ring=FFA657&fire=FFA657&currStreakNum=FFFFFF&sideNums=8B949E&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&border_radius=6" />
 
 </div>
 
@@ -180,29 +215,7 @@ me.say_hi()
 
 ---
 
-## Achievements & Stats
-
-<div align="center">
-
-![High Committer](https://img.shields.io/badge/Commits-High_Committer_%7C_130pt-ffa657?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
-![Repo Creator](https://img.shields.io/badge/Repositories-Middle_Repo_Creator_%7C_15pt-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
-![First Friend](https://img.shields.io/badge/Followers-First_Friend_%7C_1pt-3fb950?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
-![Experience](https://img.shields.io/badge/Experience-Newbie_%7C_5pt-bc8cff?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d1117)
-
-</div>
-
-<div align="center">
-
-![Total Contributions](https://img.shields.io/badge/Total_Contributions-366-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
-![Longest Streak](https://img.shields.io/badge/Longest_Streak-6_Days-ffa657?style=for-the-badge&logo=fire&logoColor=white&labelColor=0d1117)
-![2nd Place IEEE](https://img.shields.io/badge/IEEE_PSYWSC'25-2nd_Place_Coding-gold?style=for-the-badge&logo=ieee&logoColor=white&labelColor=0d1117)
-![AWS Cloud Club](https://img.shields.io/badge/AWS_Cloud_Club-Core_Member-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d1117)
-
-</div>
-
----
-
-## Certifications & Achievements
+## Certifications
 
 <div align="center">
 
@@ -220,62 +233,51 @@ me.say_hi()
 
 </div>
 
-**Competitions & Leadership Roles:**
-- **2nd Position** — IEEE PSYWSC'25 Coding Competition
-- **Ambassador** — IEEE Day'25 & YESIST'26
-- **Social Media Head** — IEEE SAC Islamabad
-- **Cohort 4 Alumnus** — ASPIRE Leadership Program 2025
-- **Student Member** — IEEE (2 Years)
-- **Participant** — HEC Gen AI Training by Pak Angels
+---
+
+## Community & Leadership
+
+| Role | Organization | Period |
+|:--|:--|:--|
+| Publicity & Public Visibility Lead | IEEE Namal Student Branch | Jun 2025 – Present |
+| Core Member | AWS Namal Cloud Club | Dec 2025 – Present |
+| Ambassador | IEEE Day'25 & YESIST'26 | Jul 2025 – Present |
+| Social Media Head | IEEE SAC Islamabad | Present |
+| Head of Marketing | DEN Namal | Jul 2024 – Present |
+| Marketing Head | Namal Dramatics Club | Oct 2025 – Present |
+| Cohort 4 Alumnus | ASPIRE Leadership Program | Aug–Oct 2025 |
 
 ---
 
 ## Current Goals
 
-```
-[ ] Master Docker, Kubernetes & cloud-native DevOps pipelines
-[ ] Achieve AWS Cloud Practitioner / Azure Fundamentals certification
-[ ] Build production-grade AI systems with measurable real-world impact
-[ ] Contribute meaningfully to open-source security and ML projects
-[ ] Expand expertise in Cybersecurity and ethical hacking fundamentals
-[ ] Grow as a full-cycle freelance engineer on Upwork & Fiverr
+```text
+→  Master Docker, Kubernetes & cloud-native DevOps pipelines
+→  Achieve AWS Cloud Practitioner / Azure Fundamentals certification
+→  Build production-grade AI systems with measurable real-world impact
+→  Contribute meaningfully to open-source security and ML projects
+→  Expand expertise in Cybersecurity and ethical hacking
+→  Grow as a full-cycle freelance engineer
 ```
 
 ---
 
-## Connect With Me
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/rayan-badar-b64542367/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:rayanbadar900@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/nayar-900">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://linktr.ee/nayar_900">
-  <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.upwork.com/freelancers/~012f7aa1fc04a1b33c">
-  <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,100:0d1117&height=100&section=footer&animation=fadeIn" />
 
-</div>
-
----
-
-<div align="center">
 <br/>
-<strong>Building systems that solve problems.</strong>
+
+<sub>DevOps & Cloud · Full Stack · AI Systems · Open to Collaboration</sub>
+
 <br/><br/>
 
-![footer line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+<a href="https://www.linkedin.com/in/rayan-badar-b64542367/"><img src="https://img.shields.io/badge/LinkedIn-0a1628?style=for-the-badge&logo=linkedin&logoColor=58A6FF" /></a>
+&nbsp;
+<a href="mailto:rayanbadar900@gmail.com"><img src="https://img.shields.io/badge/Email-0a1628?style=for-the-badge&logo=gmail&logoColor=cc3333" /></a>
+&nbsp;
+<a href="https://linktr.ee/nayar_900"><img src="https://img.shields.io/badge/Linktree-0a1628?style=for-the-badge&logo=linktree&logoColor=22c55e" /></a>
+&nbsp;
+<a href="https://www.upwork.com/freelancers/~012f7aa1fc04a1b33c"><img src="https://img.shields.io/badge/Upwork-0a1628?style=for-the-badge&logo=upwork&logoColor=22c55e" /></a>
 
 </div>
