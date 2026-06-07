@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a1628,70:0d2137,100:0a1117&height=220&section=header&text=Rayan%20Badar&fontSize=65&fontColor=58a6ff&fontAlignY=42&desc=DevOps%20%26%20Cloud%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20SEO&descSize=16&descAlignY=62&descColor=8b949e&animation=fadeIn&stroke=58A6FF&strokeWidth=1" />
+<img width="100%" src="https://svg-banners.vercel.app/api?type=glitch&text1=Rayan%20Badar&width=900&height=180&textColor1=58a6ff&textColor2=ffa657" />
 
+<h3>DevOps & Cloud &nbsp;·&nbsp; Full Stack &nbsp;·&nbsp; AI Systems &nbsp;·&nbsp; Cybersecurity &nbsp;·&nbsp; SEO</h3>
 
 <br/>
-
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=BS+Computer+Science+%E2%80%94+Namal+University+Mianwali+(2027);DevOps+Engineer+%7C+Cloud+Practitioner+(AWS+%26+Azure);Full+Stack+Web+Developer+(React+%7C+Node.js+%7C+Flask);AI+%26+ML+Systems+Builder+%7C+Cybersecurity+Enthusiast;IEEE+Publicity+Lead+%7C+AWS+Cloud+Club+Core+Member;SEO+Strategist+%7C+Technical+Blogger+at+nayarBlogs)](https://git.io/typing-svg)
 
@@ -12,8 +12,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nayar-900&label=Profile+Views&color=1a3a6b&style=flat-square)
 &nbsp;
-
-
 ![GitHub](https://img.shields.io/badge/nayar--900-0d1117?style=flat-square&logo=github&logoColor=58a6ff)
 &nbsp;
 ![Location](https://img.shields.io/badge/Bahawalpur%2C_Pakistan-0d1117?style=flat-square&logo=googlemaps&logoColor=58a6ff)
@@ -326,11 +324,15 @@ Implemented a complete RISC-V single-cycle processor: instruction memory, regist
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:0d1f3c,100:0d1117&height=130&section=footer&text=Building+systems+that+solve+problems.&fontSize=20&fontColor=58a6ff&fontAlignY=65&animation=fadeIn" />
+
 
 <br/>
 
-<sub>DevOps & Cloud &nbsp;·&nbsp; Full Stack &nbsp;·&nbsp; AI Systems &nbsp;·&nbsp; Cybersecurity &nbsp;·&nbsp; Open to Collaboration</sub>
+![footer](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+
+<h4>Building systems that solve problems.</h4>
+
+<sub>DevOps &amp; Cloud &nbsp;&middot;&nbsp; Full Stack &nbsp;&middot;&nbsp; AI Systems &nbsp;&middot;&nbsp; Cybersecurity &nbsp;&middot;&nbsp; Open to Collaboration</sub>
 
 <br/><br/>
 
