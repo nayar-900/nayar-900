@@ -57,7 +57,7 @@ Program Graduate<br/>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/Ambassador-6b1a1a?style=for-the-badge" /><br/><br/>
-<strong>IEEE Day'25 & YESIST'26</strong><br/>
+<strong>IEEE Day'25 / YESIST'26</strong><br/>
 Global IEEE Initiatives<br/>
 <sub>IEEE International</sub>
 </td>
