@@ -78,7 +78,7 @@ class RayanBadar:
         self.university   = "Namal University Mianwali — BSCS (2023–2027)"
         self.gpa          = "3.04 / 4.00"
         self.roles        = [
-            "DevOps & Cloud Engineer",       # primary focus
+            "DevOps & Cloud Engineer",        # primary focus / Main Field
             "Full Stack Developer",           # React · Node.js · Flask
             "AI & ML Systems Builder",        # PyTorch · Scikit-learn · OpenCV
             "Cybersecurity Enthusiast",       # Networks · IoT Security · WSL2
