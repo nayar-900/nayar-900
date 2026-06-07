@@ -40,7 +40,7 @@
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/2nd%20Place-1a3a6b?style=for-the-badge" /><br/><br/>
 <strong>IEEE PSYWSC'25</strong><br/>
-National Coding Competition<br/>
+Coding Competition<br/>
 <sub>IEEE Namal Student Branch</sub>
 </td>
 <td align="center" width="25%">
