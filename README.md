@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a1628,70:0d2137,100:0a1117&height=220&section=header&text=Rayan%20Badar&fontSize=65&fontColor=58a6ff&fontAlignY=42&desc=DevOps%20%26%20Cloud%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20SEO&descSize=16&descAlignY=62&descColor=8b949e&animation=fadeIn&stroke=58A6FF&strokeWidth=1" />
 
+
 <br/>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=BS+Computer+Science+%E2%80%94+Namal+University+Mianwali+(2027);DevOps+Engineer+%7C+Cloud+Practitioner+(AWS+%26+Azure);Full+Stack+Web+Developer+(React+%7C+Node.js+%7C+Flask);AI+%26+ML+Systems+Builder+%7C+Cybersecurity+Enthusiast;IEEE+Publicity+Lead+%7C+AWS+Cloud+Club+Core+Member;SEO+Strategist+%7C+Technical+Blogger+at+nayarBlogs)](https://git.io/typing-svg)
 
