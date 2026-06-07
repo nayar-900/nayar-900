@@ -12,6 +12,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nayar-900&label=Profile+Views&color=1a3a6b&style=flat-square)
 &nbsp;
+
 ![GitHub](https://img.shields.io/badge/nayar--900-0d1117?style=flat-square&logo=github&logoColor=58a6ff)
 &nbsp;
 ![Location](https://img.shields.io/badge/Bahawalpur%2C_Pakistan-0d1117?style=flat-square&logo=googlemaps&logoColor=58a6ff)
@@ -43,12 +44,6 @@ National Coding Competition<br/>
 <sub>IEEE Namal Student Branch</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Ambassador-6b1a1a?style=for-the-badge" /><br/><br/>
-<strong>IEEE Day'25 & YESIST'26</strong><br/>
-Global IEEE Initiatives<br/>
-<sub>IEEE International</sub>
-</td>
-<td align="center" width="25%">
 <img src="https://img.shields.io/badge/Publicity%20Lead-0a2a3a?style=for-the-badge" /><br/><br/>
 <strong>IEEE Namal Branch</strong><br/>
 Public Visibility Head<br/>
@@ -59,6 +54,12 @@ Public Visibility Head<br/>
 <strong>ASPIRE Leadership</strong><br/>
 Program Graduate<br/>
 <sub>ASPIRE Institute</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Ambassador-6b1a1a?style=for-the-badge" /><br/><br/>
+<strong>IEEE Day'25 & YESIST'26</strong><br/>
+Global IEEE Initiatives<br/>
+<sub>IEEE International</sub>
 </td>
 </tr>
 </table>
