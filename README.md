@@ -263,7 +263,7 @@ me.say_hi()
 | Core Member | AWS Namal Cloud Club | Dec 2025 – Present |
 | Ambassador | IEEE Day'25 & YESIST'26 | Jul 2025 – Present |
 | Social Media Head | IEEE SAC Islamabad | Present |
-| Head of Marketing | DEN Namal | Jul 2024 – Present |
+| Head of Marketing | DEN Namal | Jul 2024 – May 2025 |
 | Marketing Head | Namal Dramatics Club | Oct 2025 – Present |
 | Cohort 4 Alumnus | ASPIRE Leadership Program | Aug–Oct 2025 |
 
