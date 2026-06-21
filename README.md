@@ -275,7 +275,7 @@ me.say_hi()
 
 <div align="center">
 
-| Core CS | Systems & Networks | Mathematics & Theory |
+| Core CS | Systems & Networks | Mathematics & Theory | 
 |:-:|:-:|:-:|
 | Data Structures | Computer Organization & AL | Discrete Structures |
 | Analysis of Algorithms | Computer Architecture | Theory of Automata |
