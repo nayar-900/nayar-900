@@ -233,7 +233,7 @@ me.say_hi()
 
 ---
 
-## Certifications
+## Certifications  
 
 <div align="center">
 
