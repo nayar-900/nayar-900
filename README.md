@@ -105,7 +105,7 @@ me.say_hi()
 
 ## Projects
 
-### AEGIS AI — Automated Earthquake Geospatial Intelligence System
+### AEGIS AI — Automated Earthquake Geospatial Intelligence System 
 
 > AI-based predictive model integrated with live USGS earthquake feeds for real-time disaster response.
 
@@ -129,7 +129,7 @@ me.say_hi()
 
 ---
 
-### Spam Email Detection System
+### Spam Ham Email Detection System
 
 > Naive Bayes classifier with a full NLP preprocessing pipeline and real-time prediction interface.
 
