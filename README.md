@@ -113,7 +113,7 @@ me.say_hi()
 
 ---
 
-### TraceIt — Lost & Found Mobile Application
+### TraceIt — Lost & Found Mobile Application     
 
 > Android-native app with real-time Firebase sync for university-scale lost and found management.
 
