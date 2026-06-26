@@ -105,7 +105,7 @@ me.say_hi()
 
 ## Projects
 
-### AEGIS AI — Automated Earthquake Geospatial Intelligence System 
+### AEGIS AI — An Automated Earthquake Geospatial Intelligence System 
 
 > AI-based predictive model integrated with live USGS earthquake feeds for real-time disaster response.
 
