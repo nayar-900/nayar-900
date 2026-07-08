@@ -286,7 +286,7 @@ me.say_hi()
 
 ---
 
-## Current Goals
+## Current Goals 
 
 ```text
 →  Master Docker, Kubernetes & cloud-native DevOps pipelines
