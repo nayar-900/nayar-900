@@ -145,7 +145,7 @@ me.say_hi()
 
 ---
 
-### Shop-X — eCommerce Storefront
+### Shop-X — eCommerce Storefront 
 
 > Responsive eCommerce frontend with dynamic product listings and clean component architecture.
 
