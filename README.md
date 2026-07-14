@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://svg-banners.vercel.app/api?type=glitch&text1=Rayan%20Badar&width=900&height=180&textColor1=58a6ff&textColor2=ffa657" />
 
-<h3>DevOps & Cloud &nbsp;·&nbsp; Full Stack &nbsp;·&nbsp; AI Systems &nbsp;·&nbsp; Cybersecurity &nbsp;·&nbsp; SEO</h3>
+<h3>DevOps & Cloud &nbsp;·&nbsp; Full Stack &nbsp;·&nbsp; AI Systems &nbsp;·&nbsp; Cybersecurity &nbsp;·&nbsp; SEO</h3> 
 
 <br/>
 
