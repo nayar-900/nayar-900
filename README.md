@@ -29,7 +29,7 @@
 &nbsp;
 <a href="https://www.upwork.com/freelancers/~012f7aa1fc04a1b33c"><img src="https://img.shields.io/badge/Upwork-0a1628?style=for-the-badge&logo=upwork&logoColor=22c55e" /></a>
 
-</div>
+</div> 
 
 ---
 
